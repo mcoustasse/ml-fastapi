@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env3.10/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+
+# Video files
+*.mp4
+*.mov
